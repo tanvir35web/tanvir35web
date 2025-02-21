@@ -24,7 +24,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/react.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="SwiftUI" width="26px" src="https://swiftwithmajid.com/public/swiftui.png" />
 <img align="left" alt="UIKit" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqKwM6C7-BixKbYfCvQlnQlZl6W1BRIBV4toUdAiaGomSFmw27WA8NoIMUCleoqlTxy5I&usqp=CAU" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
