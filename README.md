@@ -2,9 +2,12 @@
 
 ## I'm a Software Engineer !!
 
-### Skills -> JavaScript / React / Next / Redux / Redux-toolkit / HTML / CSS / Tailwind CSS / Antd / C / Data Structure / Algorithm / Database / Node JS / Go 
+<img align="left" alt="COVER IMAGE" width="1260px" src="https://media.licdn.com/dms/image/v2/D5616AQEDDAqRDuYjpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721848151057?e=1745452800&v=beta&t=j4Y8Rs9cXt1uj7Zq1QQvAUK8IootbwozsC2h5ogrtHg" />
 
-<img align="left" alt="COVER IMAGE" width="260px" src="https://media.licdn.com/dms/image/v2/D5616AQEDDAqRDuYjpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721848151057?e=1745452800&v=beta&t=j4Y8Rs9cXt1uj7Zq1QQvAUK8IootbwozsC2h5ogrtHg" />
+<br />
+
+
+#### Skills -> JavaScript / React / Next / Redux / Redux-toolkit / HTML / CSS / Tailwind CSS / Antd / C / Data Structure / Algorithm / Database / Node JS / Go 
 
 <br/>
 
