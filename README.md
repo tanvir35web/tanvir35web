@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BC+%2C+I'm+Tanvirul+Islam)](https://github.com/rezaulislamtarek)
 
 ## I'm a Software Engineer !!
-
-<img align="left" alt="COVER IMAGE" width="1260px" src="https://media.licdn.com/dms/image/v2/D5616AQEDDAqRDuYjpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721848151057?e=1745452800&v=beta&t=j4Y8Rs9cXt1uj7Zq1QQvAUK8IootbwozsC2h5ogrtHg" />
-
 <br />
+<img align="left" alt="COVER IMAGE" style="padding-bottom: '10px'" width="1260px" src="https://media.licdn.com/dms/image/v2/D5616AQEDDAqRDuYjpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721848151057?e=1745452800&v=beta&t=j4Y8Rs9cXt1uj7Zq1QQvAUK8IootbwozsC2h5ogrtHg" />
 
 
-#### Skills -> JavaScript / React / Next / Redux / Redux-toolkit / HTML / CSS / Tailwind CSS / Antd / C / Data Structure / Algorithm / Database / Node JS / Go 
+
+## .
+#### Skills -> JavaScript / React / Next / Redux / Redux-toolkit / HTML / CSS / Tailwind CSS / Antd / C / Data Structure / Algorithm / Database / Node JS / Go lang 
 
 <br/>
 
@@ -18,16 +18,11 @@
 - ⚡ Fun fact: I love outdoor games like cricket and football
 - 👯 I’m looking to collaborate with other developers and share knowledge
 
-<br />
-
 ### Connect with me:
 [Facebook]: https://www.facebook.com/me.tanvir035/
 [linkedin]: https://www.linkedin.com/in/tanvir-niter09/
-[leetcode]: https://leetcode.com/u/tanvir035/
-
-[<img align="left" alt="rezaul | github" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Uu0auB-_30X62d-vUYM-jhN4TkqPqgv6A&usqp=CAU" />][leetcode]
-[<img align="left" alt="rezaul | LinkedIn" width="30px" src="https://www.citypng.com/public/uploads/preview/hd-square-white-outline-linkedin-icon-png-31624155196exv4kdg0si.png" />][linkedin]
-[<img align="left" alt="rezaul | Facebook" width="30px" src="https://www.freeiconspng.com/uploads/images-facebook-f-logo-png-transparent-background-page-2-29.png" />][Facebook]
+[<img align="left" alt="tanvir-linkedin | LinkedIn" width="30px" src="https://www.citypng.com/public/uploads/preview/hd-square-white-outline-linkedin-icon-png-31624155196exv4kdg0si.png" />][linkedin]
+[<img align="left" alt="tanvir-facebook | Facebook" width="30px" src="https://www.freeiconspng.com/uploads/images-facebook-f-logo-png-transparent-background-page-2-29.png" />][Facebook]
 
 <br />
 <br />
