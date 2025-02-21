@@ -4,7 +4,9 @@
 
 ### Skills -> JavaScript / React / Next / Redux / Redux-toolkit / HTML / CSS / Tailwind CSS / Antd / C / Data Structure / Algorithm / Database / Node JS / Go 
 
-<img align="left" alt="SQL" width="260px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png](https://media.licdn.com/dms/image/v2/D5616AQEDDAqRDuYjpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721848151057?e=1745452800&v=beta&t=j4Y8Rs9cXt1uj7Zq1QQvAUK8IootbwozsC2h5ogrtHg)" />
+<img align="left" alt="COVER IMAGE" width="260px" src="https://media.licdn.com/dms/image/v2/D5616AQEDDAqRDuYjpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721848151057?e=1745452800&v=beta&t=j4Y8Rs9cXt1uj7Zq1QQvAUK8IootbwozsC2h5ogrtHg" />
+
+<br/>
 
 - 🔭 Currently, I'm working as a Junior Software Engineer (Web) at [Doctime](https://doctime.com.bd/)
 - 🌱 I’m currently learning advanced Web Application Development and exploring new Web Technologies and Features
