@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate with other developers and share knowledge
 
 <br />
-<br />
-
 ### Connect with me:
 [Facebook]: https://www.facebook.com/me.tanvir035/
 [linkedin]: https://www.linkedin.com/in/tanvir-niter09/
@@ -49,6 +47,8 @@
 <br />
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanvir35web&theme=dark)  
+<br />
+<br />
 
 <table cellspacing="0" cellpadding="0" style="border:none;" align="center">
   <tr>
