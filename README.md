@@ -42,15 +42,15 @@
 <br />
 <br />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rezaulislamtarek&theme=dark)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanvir35web&theme=dark)  
 
 <table cellspacing="0" cellpadding="0" style="border:none;" align="center">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaulislamtarek&theme=dark&layout=compact" alt="rezaulislamtarek" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir35web&theme=dark&layout=compact" alt="tanvir35web" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaulislamtarek&show_icons=true&theme=dark&line_height=27&count_private=true&hide=issues" alt="rezaulislamtarek" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir35web&show_icons=true&theme=dark&line_height=27&count_private=true&hide=issues" alt="tanvir35web" />
     </td>
   </tr>
 </table>
