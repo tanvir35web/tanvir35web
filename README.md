@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BC+%2C+I'm+Rezaul+Islam)](https://github.com/rezaulislamtarek)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BC+%2C+I'm+Tanvirul+Islam)](https://github.com/rezaulislamtarek)
 
-## I'm a Mobile Application Developer!!
+## I'm a Software Engineer !!
 
-### Skills -> iOS / Swift / SwiftUI / UIKit / Android / Kotlin / Java / Flutter / Dart / Data Structure / Algorithm / Database / C / Python 
+### Skills -> JavaScript / React / Next / Redux / Redux-toolkit / HTML / CSS / Tailwind CSS / Antd / C / Data Structure / Algorithm / Database / Node JS / Go 
 
-- 🔭 Currently, I'm working as a Mobile Application Developer (iOS) at [Doctime](https://doctime.com.bd/)
-- 🌱 I’m currently learning advanced iOS development and exploring new SwiftUI features
-- 💬 Ask me about iOS Development, Android Development, Programming Languages, Database, Algorithm, and Data Structures
+- 🔭 Currently, I'm working as a Junior Software Engineer (Web) at [Doctime](https://doctime.com.bd/)
+- 🌱 I’m currently learning advanced Web Application Development and exploring new Web Technologies and Features
+- 💬 Ask me about Frontend Development, Backend Development, Programming Languages, Database, Algorithm, and Data Structures
 - 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love outdoor games like cricket and football
 - 👯 I’m looking to collaborate with other developers and share knowledge
