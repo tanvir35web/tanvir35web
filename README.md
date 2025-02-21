@@ -7,7 +7,7 @@
 
 
 ## .
-#### Skills -> JavaScript / React js / Next js / Redux / Redux-toolkit / HTML / CSS / Tailwind CSS / Antd / C / Data Structure / Algorithm / Database / Node JS / Go lang / Python
+#### Skills -> JavaScript / React js / Next js / Redux / Redux-toolkit / HTML / CSS / Tailwind CSS / Antd / C / Data Structure / Algorithm / Database / Node JS / Go lang / Python / Docker
 
 <br/>
 
