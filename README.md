@@ -47,8 +47,7 @@
 <br />
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanvir35web&theme=dark)  
-<br />
-<br />
+
 
 <table cellspacing="0" cellpadding="0" style="border:none;" align="center">
   <tr>
