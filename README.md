@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer !!
 <br />
-<img align="left" alt="COVER IMAGE" style="padding-bottom: '10px'" width="1260px" src="https://media.licdn.com/dms/image/v2/D5616AQEDDAqRDuYjpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721848151057?e=1745452800&v=beta&t=j4Y8Rs9cXt1uj7Zq1QQvAUK8IootbwozsC2h5ogrtHg" />
+<img align="left" alt="COVER IMAGE" style="padding-bottom: '10px'" width="1260px" src="https://media.licdn.com/dms/image/v2/D5616AQEDDAqRDuYjpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721848151057?e=1755734400&v=beta&t=SQ7FBcaPNeXbh8K4g1x8KTbD6QV01RocAM3D6IYFCKc" />
 
 
 
