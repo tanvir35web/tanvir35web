@@ -11,7 +11,7 @@
 
 <br/>
 
-- 🔭 Currently, I'm working as a Junior Software Engineer (Web) at [Doctime](https://doctime.com.bd/)
+- 🔭 Currently, I'm working as a Software Engineer (Web-Mid) at [Star Connect]
 - 🌱 I’m currently learning advanced Web Application Development and exploring new Web Technologies and Features
 - 💬 Ask me about Frontend Development, Backend Development, Programming Languages, Database, Algorithm, and Data Structures
 - 🥅 2025 Goals: Contribute more to Open Source projects
