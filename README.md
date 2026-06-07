@@ -48,7 +48,7 @@ Expert consultation platform connecting users with professionals through real-ti
 - Improved Core Web Vitals through SSR and optimization techniques
 - Built scalable authentication and session management systems
 
-🔗 Demo: [https://frontend-doctor-digital-prescriptio.vercel.app](https://starconnect.com)
+🔗 Demo: https://starconnect.com
 
 
 ---
