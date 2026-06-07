@@ -65,6 +65,8 @@ One of Bangladesh's leading telemedicine platforms.
 - Managed appointment and payment workflows
 - Delivered responsive cross-platform experiences
 
+🔗 Demo: https://doctime.com.bd
+
 ---
 
 ### 📋 Digital Prescription System
@@ -109,6 +111,8 @@ Luxury branding agency website based in London.
 - High-performance parallax effects
 - SEO optimization
 - Accessibility improvements
+
+🔗 Demo: https://hudsonwrighteaston.com
 
 ---
 
