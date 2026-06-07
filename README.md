@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tanvirul Islam
 
-### Software Engineer (Frontend Focused) | React • Next.js • TypeScript
+### Software Engineer (Frontend Focused) | React • Next.js • TypeScript • Node.js • Python
 
 <p align="left">
   <a href="https://github.com/tanvir35web">
