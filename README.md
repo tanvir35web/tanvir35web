@@ -12,7 +12,7 @@
 
 Frontend-focused Software Engineer with 3.5+ years of professional experience building scalable web applications, telemedicine platforms, real-time video solutions, and complex dashboards.
 
-Currently working as **Software Engineer (Frontend) Level II** at **StarConnect**, where I build expert consultation platforms, real-time communication systems, and high-performance Next.js applications.
+Currently working as **Software Engineer Level II** at **StarConnect**, where I build expert consultation platforms, real-time communication systems, and high-performance Next.js applications.
 
 I enjoy building products that solve real-world problems and creating fast, accessible, and delightful user experiences.
 
