@@ -1,69 +1,186 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BC+%2C+I'm+Tanvirul+Islam)](https://github.com/rezaulislamtarek)
+# Hi 👋, I'm Tanvirul Islam
 
-## I'm a Software Engineer !!
-<br />
-<img align="left" alt="COVER IMAGE" style="padding-bottom: '10px'" width="1260px" src="https://media.licdn.com/dms/image/v2/D5616AQEDDAqRDuYjpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721848151057?e=1766620800&v=beta&t=D_qCctGcq97Q_IvGdMbUVNns-5s9nBOlooHZSaum5q8" />
+### Software Engineer (Frontend Focused) | React • Next.js • TypeScript
 
+<p align="left">
+  <a href="https://github.com/tanvir35web">
+    <img src="https://komarev.com/ghpvc/?username=tanvir35web&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
+## 🚀 About Me
 
-## .
-#### Skills -> JavaScript / React js / Next js / Redux / Redux-toolkit / HTML / CSS / Tailwind CSS / Antd / C / Data Structure / Algorithm / Database / Node JS / Go lang / Python / Docker
+Frontend-focused Software Engineer with 3+ years of professional experience building scalable web applications, telemedicine platforms, real-time video solutions, and complex dashboards.
 
-<br/>
+Currently working as **Software Engineer (Frontend) Level II** at **StarConnect**, where I build expert consultation platforms, real-time communication systems, and high-performance Next.js applications.
 
-- 🔭 Currently, I'm working as a Software Engineer (Web-Mid) at [Star Connect]
-- 🌱 I’m currently learning advanced Web Application Development and exploring new Web Technologies and Features
-- 💬 Ask me about Frontend Development, Backend Development, Programming Languages, Database, Algorithm, and Data Structures
-- 🥅 2025 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love outdoor games like cricket and football
-- 👯 I’m looking to collaborate with other developers and share knowledge
+I enjoy building products that solve real-world problems and creating fast, accessible, and delightful user experiences.
 
-### Connect with me:
-[Facebook]: https://www.facebook.com/me.tanvir035/
-[linkedin]: https://www.linkedin.com/in/tanvir-niter09/
-[<img align="left" alt="tanvir-linkedin | LinkedIn" width="30px" src="https://www.citypng.com/public/uploads/preview/hd-square-white-outline-linkedin-icon-png-31624155196exv4kdg0si.png" />][linkedin]
-[<img align="left" alt="tanvir-facebook | Facebook" width="30px" src="https://www.freeiconspng.com/uploads/images-facebook-f-logo-png-transparent-background-page-2-29.png" />][Facebook]
+---
 
-<br />
-<br />
+## 💻 Tech Stack
 
-### Languages and Tools:
+### Languages
+- JavaScript
+- TypeScript
+- Python
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
-<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" />
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Uu0auB-_30X62d-vUYM-jhN4TkqPqgv6A&usqp=CAU" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### Frontend
+- React.js
+- Next.js
+- Redux Toolkit
+- RTK Query
+- Vue.js
+- Composition API
+- Tailwind CSS
+- Shadcn UI
+- Ant Design
+- Chart.js
 
-<br />
-<br />
+### Animation & UI
+- Framer Motion
+- GSAP
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanvir35web&theme=dark)  
+### Testing
+- Vitest
+- React Testing Library (RTL)
 
+### Real-Time Communication
+- Agora RTC SDK
+- Pusher
+- WebRTC Concepts
 
-<table cellspacing="0" cellpadding="0" style="border:none;" align="center">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir35web&theme=dark&layout=compact" alt="tanvir35web" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir35web&show_icons=true&theme=dark&line_height=27&count_private=true&hide=issues" alt="tanvir35web" />
-    </td>
-  </tr>
-</table>
+### Backend (Working Knowledge)
+- Node.js
+- Express.js
+- NestJS
 
-<be/>
-<be/>
+### Database
+- MySQL
+- MongoDB
+- Supabase
 
+### DevOps & Tools
+- Git
+- GitHub Actions
+- Docker
+- CI/CD
+- Cursor
+- Claude Code
+- OpenAI Codex
 
+---
+
+## 🌟 Featured Projects
+
+### ⭐ StarConnect
+Expert consultation platform connecting users with professionals through real-time sessions.
+
+**Tech Stack:** Next.js 15, TypeScript, RTK Query, NestJS, MySQL, Agora RTC SDK, Pusher
+
+#### Key Contributions
+- Architected expert dashboards and booking systems
+- Integrated real-time video/audio consultations
+- Implemented advanced filtering and API integrations
+- Improved Core Web Vitals through SSR and optimization techniques
+- Built scalable authentication and session management systems
+
+---
+
+### 🩺 DocTime
+One of Bangladesh's leading telemedicine platforms.
+
+**Tech Stack:** Next.js, React, TypeScript, Redux Toolkit, Agora RTC SDK, Tailwind CSS
+
+#### Key Contributions
+- Built doctor and patient dashboards
+- Integrated real-time video consultations
+- Developed PWA features
+- Managed appointment and payment workflows
+- Delivered responsive cross-platform experiences
+
+---
+
+### 📋 Digital Prescription System
+
+A web-based prescription and lab report management platform.
+
+**Tech Stack:** React, TypeScript, NestJS, MySQL, Supabase, Cloudinary
+
+#### Features
+- Prescription management
+- Lab report workflows
+- PDF generation
+- Email notifications
+- Role-based authentication
+
+🔗 Demo: https://frontend-doctor-digital-prescriptio.vercel.app
+
+---
+
+### 📱 MyBL Care
+
+Telemedicine and medicine e-commerce platform for Banglalink subscribers.
+
+**Tech Stack:** Vue.js, PWA, Agora RTC SDK, Tailwind CSS, Pusher
+
+#### Highlights
+- Real-time doctor consultations
+- Native-web bridge integration
+- Accessibility-focused implementation
+- Progressive Web App support
+
+---
+
+### 🎨 HWE (Hudson Wright Easton)
+
+Luxury branding agency website based in London.
+
+**Tech Stack:** Next.js, GSAP, Framer Motion, Tailwind CSS, MongoDB
+
+#### Highlights
+- Advanced scroll animations
+- High-performance parallax effects
+- SEO optimization
+- Accessibility improvements
+
+---
+
+## 📈 What I Focus On
+
+- Building scalable frontend architectures
+- Performance optimization
+- Next.js App Router
+- Real-time communication systems
+- Frontend testing
+- Accessibility (A11Y)
+- Progressive Web Apps
+- Developer Experience (DX)
+
+---
+
+## 🎓 Education
+
+### East West University
+**M.Sc. in Computer Science & Engineering (CSE)**
+CGPA: 3.67 / 4.00
+
+### University of Dhaka (NITER)
+**B.Sc. in Apparel Engineering**
+CGPA: 3.85 / 4.00
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://tanvir35.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/tanvir-niter09
+- 💻 GitHub: https://github.com/tanvir35web
+- 🧠 LeetCode: https://leetcode.com/u/tanvir035
+- 📧 Email: tanvir.ewudev@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I love transforming complex business requirements into clean, scalable, and high-performance user experiences while leveraging AI-assisted development tools to accelerate delivery without sacrificing code quality.
