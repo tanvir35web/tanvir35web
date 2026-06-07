@@ -18,56 +18,19 @@ I enjoy building products that solve real-world problems and creating fast, acce
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Tech Stack Overview
 
-### Languages
-- JavaScript
-- TypeScript
-- Python
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | JavaScript, TypeScript, Python |
+| **Frontend** | React.js, Next.js, Redux Toolkit, RTK Query, Vue.js, Composition API, Tailwind CSS, Shadcn UI, Ant Design, Chart.js |
+| **Animation & UI** | Framer Motion, GSAP |
+| **Testing** | Vitest, React Testing Library (RTL) |
+| **Real-Time Communication** | Agora RTC SDK, Pusher, WebRTC Concepts |
+| **Backend (Working Knowledge)** | Node.js, Express.js, NestJS, Python Fast API |
+| **Database** | MySQL, MongoDB, Supabase |
+| **DevOps & Tools** | Git, GitHub Actions, Docker, CI/CD, Cursor, Claude Code, OpenAI Codex |
 
-### Frontend
-- React.js
-- Next.js
-- Redux Toolkit
-- RTK Query
-- Vue.js
-- Composition API
-- Tailwind CSS
-- Shadcn UI
-- Ant Design
-- Chart.js
-
-### Animation & UI
-- Framer Motion
-- GSAP
-
-### Testing
-- Vitest
-- React Testing Library (RTL)
-
-### Real-Time Communication
-- Agora RTC SDK
-- Pusher
-- WebRTC Concepts
-
-### Backend (Working Knowledge)
-- Node.js
-- Express.js
-- NestJS
-
-### Database
-- MySQL
-- MongoDB
-- Supabase
-
-### DevOps & Tools
-- Git
-- GitHub Actions
-- Docker
-- CI/CD
-- Cursor
-- Claude Code
-- OpenAI Codex
 
 ---
 
